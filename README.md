@@ -5,14 +5,18 @@
 <table>
   <tr>
     <td align="center">
-      <img src="doc/ae-stacking-layer.png" width="200" height="150" />
-      <br />
-      ae-stacking-layer
+      <a href="blob/master/ae-stacking-layer.stl">
+        <img src="doc/ae-stacking-layer.png" width="200" height="150" />
+        <br />
+        ae-stacking-layer
+      </a>
     </td>
     <td align="center">
-      <img src="doc/ae-stacking-base.png" width="200" height="150" />
-      <br />
-      ae-stacking-base
+      <a href="blob/master/ae-stacking-base.stl">
+        <img src="doc/ae-stacking-base.png" width="200" height="150" />
+        <br />
+        ae-stacking-base
+      </a>
     </td>
   </tr>
 </table>
