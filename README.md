@@ -1,6 +1,20 @@
 ### Parts
 
 
+#### Raspberry Pi
+<table>
+  <tr>
+    <td align="center">
+      <a href="pi-cam-case.stl">
+        <img src="doc/pi-cam-case.png" width="200" height="150" />
+        <br />
+        pi-cam-case
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 #### Aluminum extrusion stacking
 <table>
   <tr>
